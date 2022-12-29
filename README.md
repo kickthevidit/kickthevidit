@@ -4,6 +4,8 @@ Check out my terminal-style website at [viditgautam.vercel.app](https://viditgau
 
 My current side project is an AI based personal portfolio generator.
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kickthevidit)](https://github.com/kickthevidit/github-readme-stats)
+
 If you want to collaborate, reach out on twitter [@Vid67782045](https://twitter.com/Vid67782045).
 
 <!--
@@ -21,4 +23,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kickthevidit)](https://github.com/kickthevidit/github-readme-stats)
+
