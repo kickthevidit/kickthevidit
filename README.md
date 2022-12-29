@@ -1,6 +1,10 @@
 # Hi there 👋, I am Vidit
 
-Check out my terminal-style website at [viditgautam.vercel.app](https://viditgautam.vercel.app/)
+Check out my terminal-style website at [viditgautam.vercel.app](https://viditgautam.vercel.app/).
+
+My current side project is an AI based personal portfolio generator.
+
+If you want to collaborate, reach out on twitter [@Vid67782045](https://twitter.com/Vid67782045).
 
 <!--
 **kickthevidit/kickthevidit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
