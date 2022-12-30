@@ -1,14 +1,12 @@
 # Hi there 👋, I am Vidit
 
-Check out my terminal-style website at [viditgautam.vercel.app](https://viditgautam.vercel.app/).
+Check out my terminal-style website at **[viditgautam.vercel.app](https://viditgautam.vercel.app/)**.
 
 My current side project is an AI based personal portfolio generator.
 
-<br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
-</br>
 <br>
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
