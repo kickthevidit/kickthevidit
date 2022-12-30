@@ -25,7 +25,10 @@ My current side project is an AI based personal portfolio generator.
 ![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
 </br>
 
+<p align="center">
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kickthevidit)](https://github.com/kickthevidit/github-readme-stats)
+[![My Programming Languages]](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kickthevidit&layout=compact&langs_count=8&theme=algolia%22)
+</p>
 
 If you want to collaborate, reach out on twitter [@Vid67782045](https://twitter.com/Vid67782045).
 
