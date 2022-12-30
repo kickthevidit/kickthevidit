@@ -34,9 +34,9 @@ My current side project is an AI based personal portfolio generator.
 
 If you want to collaborate, reach out on twitter [@Vid67782045](https://twitter.com/Vid67782045).
 
-<a href="https://linkedin.com/in/viditg"><img src="https://img.shields.io/badge/-kickthevidit?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/viditg"><img src="https://img.shields.io/badge/-kickthevidit-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:vgautam2@illinois.edu"><img src="https://img.shields.io/badge/-vgautam2@illinois.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/Vid67782045"><img src="https://img.shields.io/badge/-@kickthevidit?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://twitter.com/Vid67782045"><img src="https://img.shields.io/badge/-@kickthevidit-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 
 
 <!--
