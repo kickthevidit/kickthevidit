@@ -27,8 +27,8 @@ My current side project is an AI based personal portfolio generator.
 
 <p align="center">
 <a href="github.com/kickthevidit">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kickthevidit&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kickthevidit&layout=compact&langs_count=8&theme=algolia%22"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kickthevidit&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kickthevidit&layout=compact&langs_count=8&theme=synthwave"/>
 </a>
 </p>
 
