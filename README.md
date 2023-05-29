@@ -1,6 +1,6 @@
 # Hi there 👋, I am Vidit
 
-Check out my terminal-style website at **[viditgautam.vercel.app](https://viditgautam.vercel.app/)**.
+Check out my terminal-style website at **[viditgautam.com](https://viditgautam.com)**.
 
 My current side project is an AI based personal portfolio generator.
 
